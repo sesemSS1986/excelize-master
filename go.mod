@@ -1,4 +1,4 @@
-module github.com/xuri/excelize/v2
+module github.com/sesemSS1986/excelize-master
 
 go 1.24.0
 
